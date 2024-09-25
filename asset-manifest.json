@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tatsruh/sprint1-dz2.git/static/css/main.073c9b0a.css",
+    "main.js": "/tatsruh/sprint1-dz2.git/static/js/main.6b58df0d.js",
+    "static/js/787.177e23c2.chunk.js": "/tatsruh/sprint1-dz2.git/static/js/787.177e23c2.chunk.js",
+    "index.html": "/tatsruh/sprint1-dz2.git/index.html",
+    "main.073c9b0a.css.map": "/tatsruh/sprint1-dz2.git/static/css/main.073c9b0a.css.map",
+    "main.6b58df0d.js.map": "/tatsruh/sprint1-dz2.git/static/js/main.6b58df0d.js.map",
+    "787.177e23c2.chunk.js.map": "/tatsruh/sprint1-dz2.git/static/js/787.177e23c2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.6b58df0d.js"
+  ]
+}
